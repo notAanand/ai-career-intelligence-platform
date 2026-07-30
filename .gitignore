@@ -16,3 +16,10 @@ logs/
 # Build
 dist/
 build/
+venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+.idea/
+.vscode/
